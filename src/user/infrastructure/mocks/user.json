@@ -1,0 +1,21 @@
+ [
+
+  {
+    "id": "f51ee328-9ff8-465f-bd36-4f0657f73087",
+    "name": "Carmela Soto",
+    "email": "carmela.soto@gmail.com",
+    "username": "carmela.soto"
+  },
+  {
+    "id": "5f348a8d-4910-4814-8de1-57d2588be45d",
+    "name": "Rosa Maldonado",
+    "email": "rosa.maldonado@gmail.com",
+    "username": "rosa.maldonado"
+  },
+  {
+    "id": "f2b80e04-e13e-4e5a-9737-55549c1efdf8",
+    "name": "Cata Morales",
+    "email": "cata.morales@gmail.com",
+    "username": "cata.morales"
+  }
+]
